@@ -23,7 +23,7 @@ This project, created during my school days in 2017 is a fun and engaging game b
 
 - **Frontend:** HTML, CSS, JavaScript, JQuery
 - **Android App:** WebView, Javascript Interface, Google Ads
-- 
+
 ## Screenshots
 
 ### Game Setup
