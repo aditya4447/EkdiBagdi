@@ -2,6 +2,8 @@
 
 This project, created during my school days in 2017 is a fun and engaging game based on numbers and chance. This project was built using HTML, CSS, JavaScript, and JQuery. The Android app version utilizes WebView, Javascript Interface, and Google Ads. Originally published on the Play Store, it's now available on GitHub to showcase in my portfolio.
 
+Play here: https://aditya4447.github.io/EkdiBagdi
+
 ## How to Play
 
 ### Step 1: Start the Game
